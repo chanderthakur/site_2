@@ -1,0 +1,6 @@
+[submodule "alpha"]
+	path = alpha
+	url = https://github.com/chanderthakur/alpha.git
+[submodule "gamma"]
+	path = gamma
+	url = https://github.com/chanderthakur/gamma.git
